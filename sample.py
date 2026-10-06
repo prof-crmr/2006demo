@@ -1,6 +1,6 @@
 print("Student Data Transfer Application")
 
-students = ["Ravi", "Anu", "Kiran"]
+students = ["Ravi", "Anu", "Kiran","sneha"]
 
 processed_students = []
 
